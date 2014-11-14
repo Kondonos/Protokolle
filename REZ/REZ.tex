@@ -88,18 +88,26 @@
 	\par ~ \par ~
 	\newpage
 	\subsection*{Durchführung und Auswertung}
-	\begin{enumerate}
-		\item \par {\begin{figure}[h]
-				\begin{minipage}[t]{0.5\textwidth}
-					\includegraphics[width=0.5\textwidth]{amplitude.jpg}
-					\footnotetext{Amplitudenverhältnis $\frac{x_0}{x_{0,ERR}}$ mit wachsender Dämpfung}
-				\end{minipage}
-				\begin{minipage}[t]{0.5\textwidth}
-					\includegraphics[width=0.5\textwidth]{Phasenlage.jpg}
-					\footnotetext{Phasenlage $\phi$ mit wachsender Dämpfung}
-				\end{minipage}
-			\end{figure}}
-	\end{enumerate}
+	 geg: $T_0=0,8s$, $x_{0,ERR}=6mm$,$x_{0,RES}$, $m=0,1kg$, $f_0=1,26s^{-1}$\\
+			ges:$\omega_0,~\delta,~b_r,~k$\\
+			Lös:\\
+			$$\omega_0=\frac{2\pi}{T_0}$$
+			$$\omega_0=\frac{2\pi}{0,8s}$$
+			$$\omega_0=7,85s^{-1}$$\\
+			
+			$$\delta=\frac{x_{ERR} \cdot \omega_0}{2x_{RES}}$$
+			$$\delta=\frac{6mm\cdot 7,85s^{-1}}{2\cdot50mm}$$
+			$$\delta=0,47s^{-1}$$
+			
+			$$b_R=2\delta m$$
+			$$b_R=2\cdot0,47s^{-1}\cdot 0,1kg$$
+			$$b_R=0,094\frac{kg}{s}$$
+			
+			$$k=\omega_0^2\cdot m$$
+			$$k=7,85^2\cdot 0,1$$
+			 $$k=6,16\frac{kg}{s^2}$$
+			
+	
 	
 	
 	

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.21)  13 NOV 2014 18:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.21)  14 NOV 2014 12:20
 entering extended mode
 **REZ.tex
-(C:\Users\Max\Desktop\Protokoll\REZ\REZ.tex
+(C:\Users\Max\Desktop\Protokoll\Protokolle\REZ\REZ.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls"
@@ -401,7 +401,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
 )
-(C:\Users\Max\Desktop\Protokoll\REZ\REZ.aux)
+(C:\Users\Max\Desktop\Protokoll\Protokolle\REZ\REZ.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -483,52 +483,27 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
- [2]
-<amplitude.jpg, id=14, 262.73157pt x 264.23718pt>
-File: amplitude.jpg Graphic file (type jpg)
- <use amplitude.jpg>
-Package pdftex.def Info: amplitude.jpg used on input line 94.
-(pdftex.def)             Requested size: 124.4808pt x 125.19543pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 95.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 95.
-
-<Phasenlage.jpg, id=15, 262.73157pt x 264.23718pt>
-File: Phasenlage.jpg Graphic file (type jpg)
- <use Phasenlage.jpg>
-Package pdftex.def Info: Phasenlage.jpg used on input line 98.
-(pdftex.def)             Requested size: 124.4808pt x 125.19543pt.
-
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 93--101
-[][] [] 
- []
-
-[3 <C:/Users/Max/Desktop/Protokoll/REZ/amplitude.jpg> <C:/Users/Max/Desktop/Pro
-tokoll/REZ/Phasenlage.jpg>] (C:\Users\Max\Desktop\Protokoll\REZ\REZ.aux) ) 
+ [2] [3]
+(C:\Users\Max\Desktop\Protokoll\Protokolle\REZ\REZ.aux) ) 
 Here is how much of TeX's memory you used:
- 3467 strings out of 493705
- 52236 string characters out of 3142157
+ 3446 strings out of 493705
+ 52032 string characters out of 3142157
  171725 words of memory out of 3000000
- 6763 multiletter control sequences out of 15000+200000
- 8827 words of font info for 31 fonts, out of 3000000 for 9000
+ 6749 multiletter control sequences out of 15000+200000
+ 7566 words of font info for 27 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 40i,11n,51p,308b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9
+ 40i,9n,51p,308b,192s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on REZ.pdf (3 pages, 133027 bytes).
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on REZ.pdf (3 pages, 84344 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
